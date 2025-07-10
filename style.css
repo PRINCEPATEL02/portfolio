@@ -1,0 +1,207 @@
+.nav1{
+    background-color: rgb(28, 5, 78);
+    height: 100vh;
+    margin: 0px , 0px , 0px , 0px;
+    
+}
+.nav{
+    display: flex;
+    font-size: 1.4rem;
+    border: 0.1px solid red;
+    border-radius:5px ;
+    background-color: rgb(95, 147, 195);
+    padding: 5px 0px 0px 0px;
+    height: 50px;
+}
+.nav a{
+    color: rgb(199, 238, 44);
+    margin: 9px 0px 50px 200px;
+    height: 50px;
+}
+.con{
+    padding: 25px 25px 25px 25px;
+    margin: 200px 820px 100px 200px;
+
+}
+.con p{
+    color: rgb(255, 255, 255);
+    font-size: 1.9rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.con p1{
+    color: rgb(255, 255, 255);
+    font-size: 1.4rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: 55px;
+}
+.img1{
+    border-radius: 2px solid red;
+    border-radius: 50%;
+    object-fit: cover;
+    width: 400px;
+    display: flex;
+    
+    height: 400px;
+    margin: -380px -400px 500px 750px;
+
+}
+
+.ab{
+    background-color: whitesmoke;
+    height: 730px;
+    
+}
+.ab p{
+    background-color: rgb(95, 147, 195);
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    color: beige;
+    margin-top: 0px;
+}
+.image1{
+    border: 2px solid whitesmoke;
+    border-radius: 50%;
+    width: 300px;
+    margin: 150px 500px 0px 200px;
+    height: 300px;
+    object-fit: cover;   
+}
+.ab p5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 500px;
+    margin: -300px 250px 0px 450px;
+    padding: 100px 100px 100px 100px;
+    font-size: 1.5rem;
+    color: black;
+}
+
+
+.skillfoot{
+    background-color:rgb(95, 147, 195);
+    height: 780px;
+    color: white;
+    padding-top:1px;
+   
+    
+}
+
+.skillfoot p{
+    font-size: 1.8rem;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 15px;
+    
+}
+
+.skill1{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 35px;
+    
+}
+/* #file1{
+    background: green;
+    margin-left: 40px;
+    width: 200px;
+    
+}
+#file2{
+    background: green;
+    margin-left: 25px;
+    width: 200px;
+    
+}#file3{
+    background: green;
+    margin-left: 19px;
+    width: 200px;
+    
+}#file4{
+    background: green;
+    margin-left: 13Px;
+    width: 200px;
+    
+}#file5{
+    background: green;
+    margin-left: 28px;
+    width: 200px;
+    
+}#file6{
+    background: green;
+    margin-left: 5px;
+    width: 200px;
+    
+}#file7{
+    background: green;
+    margin-left: 15px;
+    width: 200px;
+    
+}#file8{
+    background: green;
+    margin-left: 15px;
+    width: 200px;
+    
+}#file9{
+    background: green;
+    margin-left: 15px;
+    width: 200px;
+    
+}#file10{
+    background: green;
+    margin-left: 15px;
+    width: 200px;
+    
+}#file11{
+    background: green;
+    margin-left: 15px;
+    width: 200px;
+    
+}#file12{
+    background: green;
+    margin-left: 15px;
+    width: 200px;
+    
+} */
+
+.back{
+    background-color:white;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin: 25px , 100px 20px 100px; */
+    width: 100%;
+    height: 90%;
+    background-position: full;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+
+.project {
+    background-color:rgb(95, 147, 195);
+    height: 40px;
+    color: white;
+    padding-top: 1px;
+
+    
+}
+
+.project p{
+    font-size: 1.8rem;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: -3px;
+}
